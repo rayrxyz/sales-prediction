@@ -19,4 +19,4 @@ Everything will be ran in our Colab Notebook and we will be using Python for thi
 * [README.md](https://github.com/vincebarokie/sales-prediction/edit/main/README.md)
 * [Sales Prediction Colab Notebook](https://github.com/vincebarokie/sales-prediction/blob/main/sales_prediction.ipynb)
 * [Report/Presentation](https://github.com/vincebarokie/sales-prediction/blob/main/Sales%20Prediction%20Presentation.pptx)
-* Audio File of the Presentation
+* [Audio File of the Presentation](https://github.com/vincebarokie/sales-prediction/blob/main/sales_prediction_presentation.mp4)

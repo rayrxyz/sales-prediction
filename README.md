@@ -5,12 +5,12 @@ This project is about sales prediction of various food items from store outlets.
 We will perform data processing, exploratory analysis and fit the data to our machine learning models to achieve our goal.
 
 **TODOS**
-- [ ] Load our dataset to a DataFrame
-- [ ] Clean and preprocess our data
-- [ ] Exploratory visualization and analysis
-- [ ] Fit our preprocessed training and testing sets to our machine learning models
-- [ ] Test two machine learning algorithms
-- [ ] Recommend the best model 
+- [x] Load our dataset to a DataFrame
+- [x] Clean and preprocess our data
+- [x] Exploratory visualization and analysis
+- [x] Fit our preprocessed training and testing sets to our machine learning models
+- [x] Test two machine learning algorithms
+- [x] Recommend the best model 
 
 Everything will be ran in our Colab Notebook and we will be using Python for this project. 
 
